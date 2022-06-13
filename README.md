@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @quentin-muller
 - 👀 I’m interested in electronique
-- 🌱 I’m currently learning in swiss in the HEIG-VD
+- 🌱 I’m currently learning in swiss in the HES-SO
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
